@@ -1,0 +1,23 @@
+{
+  "name": "gulp-demo",
+  "description": "",
+  "main": "index.js",
+  "authors": [
+    "yang <exvincse@gmail.com>"
+  ],
+  "license": "ISC",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "vue": "^2.6.10",
+    "jquery": "^3.4.1",
+    "jquery.nicescroll": "^3.7.6",
+    "highcharts": "^7.2.1"
+  }
+}
