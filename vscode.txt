@@ -1,0 +1,38 @@
+{
+  "emmet.triggerExpansionOnTab": true,
+  "emmet.syntaxProfiles": {
+    "javascript": "html",
+    "vue-html": "html",
+    "vue": "html"
+  },
+  "emmet.includeLanguages": {
+    "javascript": "html"
+  },
+  "prettier.singleQuote": true,
+  "prettier.semi": false,
+  "prettier.tabWidth": 2,
+  "[html]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[vue]": {
+    "editor.detectIndentation": false,
+    "editor.insertSpaces": true
+  },
+  "editor.fontFamily": "'Fira Code', 'Source Code Pro', Consolas, 'Microsoft JhengHei', 'Courier New', monospace",
+  "editor.fontSize": 20,
+  "editor.fontLigatures": true,
+  "editor.formatOnSave": false,
+  "editor.wordWrap": "wordWrapColumn",
+  "editor.wordWrapColumn": 80,
+  "editor.tabSize": 2,
+  // "editor.rulers": [
+  //   80,
+  //   120
+  // ],
+  "window.zoomLevel": 0,
+  // "workbench.colorTheme": "Solarized Dark",
+  "terminal.integrated.shell.windows": "C:\\Program Files\\Git\\bin\\bash.exe",
+  // "html.format.wrapLineLength": 80,
+  "files.autoSave": "onFocusChange",
+  // "prettier.printWidth": 80,
+}
