@@ -15,7 +15,6 @@
     "gulp-browserify": "^0.5.1",
     "gulp-clean": "^0.3.2",
     "gulp-concat": "^2.6.1",
-    "gulp-gh-pages": "^0.5.4",
     "gulp-if": "^2.0.2",
     "gulp-load-plugins": "^1.5.0",
     "gulp-minify-css": "^1.2.4",
@@ -26,9 +25,12 @@
     "gulp-sourcemaps": "^2.6.0",
     "gulp-uglify": "^2.1.2",
     "jquery": "^3.2.1",
-    "lodash": "^4.17.4",
     "minimist": "^1.2.0"
   },
+  "browserslist": [
+    "last 1 version",
+    "> 5%"
+  ],
   "dependencies": {
     "@babel/core": "^7.6.0",
     "@babel/preset-env": "^7.6.0",
