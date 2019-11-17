@@ -36,3 +36,10 @@
   "files.autoSave": "onFocusChange",
   // "prettier.printWidth": 80,
 }
+
+Vue 2 snippets
+vetur
+prettier
+jquery code snippets
+eslint
+chinese
